@@ -5,7 +5,8 @@ function Footer() {
     <div className="footer">
       <div className="footer-bottom">
         <p className="footer-bottom-left">
-          @ 2025 Bradley Liu. All rights reserved. | bradley121901@gmail.com | +1 (438) 860 0415 | https://www.linkedin.com/in/bradleyliu121901
+          @ 2025 Bradley Liu. All rights reserved. | bradley011235@gmail.com |
+          +1 (438) 860 0415 | https://www.linkedin.com/in/bradleyliu011235
         </p>
       </div>
     </div>
